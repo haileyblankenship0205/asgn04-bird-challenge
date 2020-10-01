@@ -1,7 +1,5 @@
 <?php require_once('../private/initialize.php'); ?>
-
-<?php $page_title = 'Inventory'; ?>
-<!-- <?php include(SHARED_PATH . '/public_header.php'); ?> -->
+<?php $page_title = 'Birds'; ?>
 
 <div id="main">
 
@@ -47,4 +45,3 @@ $birds_array = $parser->parse();
 
 </div>
 
-<!-- <?php include(SHARED_PATH . '/public_footer.php'); ?> -->
